@@ -2,7 +2,7 @@
 
 🎓 A Business Information Systems student passionate about combining **technology**, **design**, and **data** to solve real-world problems.
 
-📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/rewan-hesham/](http://www.linkedin.com/in/rewan-hesham-elsayed-77a62a268) | [Email](mailto:rewan.elsayed2003@gmail.com)
+📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/rewan-hesham/](http://www.linkedin.com/in/rewan-hesham-elsayed-77a62a268)) | [Email](mailto:rewan.elsayed2003@gmail.com)
 
 ---
 
