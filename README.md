@@ -31,8 +31,6 @@
 
 ## 📊 GitHub Stats
 
-![Rewan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rewanelsayed03&show_icons=true&theme=tokyonight)
----
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rewanelsayed03&layout=compact&theme=dracula)
 
 ---
