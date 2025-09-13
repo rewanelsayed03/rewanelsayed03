@@ -40,7 +40,7 @@
 ---
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rewanelsayed03&layout=compact&theme=github_dark)
+
 
 ---
 
