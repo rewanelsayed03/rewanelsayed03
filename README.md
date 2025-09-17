@@ -42,7 +42,7 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rewanelsayed03&show_icons=true&theme=tokyonight&count_private=true&token=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) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rewanelsayed03&layout=compact&theme=tokyonight&token=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) 
 
 
 
