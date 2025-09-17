@@ -42,7 +42,10 @@
 ---
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rewanelsayed03&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rewanelsayed03&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rewanelsayed03&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rewanelsayed03&layout=compact&theme=tokyonight)
+
 
 ---
 
